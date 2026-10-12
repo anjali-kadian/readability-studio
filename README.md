@@ -2,7 +2,7 @@
 
 > Paste your writing and instantly see how readable it is, with live, color-coded highlights for the sentences and words that slow readers down.
 
-**[Live demo →](https://anjali-kadian.github.io/readability-studio/)**
+**[Live demo →](https://readability-studio.vercel.app)**
 
 ![Readability Studio screenshot](screenshot.png)
 <!-- Add a screenshot: load the sample text, take a screenshot, save it as screenshot.png in the repo root. -->
@@ -97,7 +97,7 @@ The tests cover sentence splitting (abbreviations, decimals, initials), syllable
 - **Vanilla JavaScript (ES2020+)**: regular expressions with Unicode property escapes, `matchAll`, `requestAnimationFrame`, the Clipboard API and `localStorage`
 - **SVG** for the animated score dial (`stroke-dasharray` / `stroke-dashoffset`)
 - **Google Fonts**: [Inter](https://fonts.google.com/specimen/Inter) for the interface and [Source Serif 4](https://fonts.google.com/specimen/Source+Serif+4) for the editor
-- **GitHub Pages** for free hosting
+- **Vercel** for free hosting (also mirrored on GitHub Pages)
 
 ## Project structure
 
